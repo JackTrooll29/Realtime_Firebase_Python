@@ -2,7 +2,7 @@
 import requests
 import json
 
-link = 'https://meuprojetojack-default-rtdb.firebaseio.com/'
+link = 'link do banco de dados do firebase'
 
 # Criando uma venda Firebase (POST)
 dados_vendas = {
